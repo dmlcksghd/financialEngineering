@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f230b23-8e35-4c93-99d7-97976ea49f20" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1회차/1일차/SCFE_202412_1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1회차/1일차/SCFE_202412_1_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <updated>1734309871770</updated>
       <workItem from="1734309873182" duration="861000" />
       <workItem from="1734310761773" duration="5736000" />
-      <workItem from="1734317007372" duration="699000" />
+      <workItem from="1734317007372" duration="7161000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734312768869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="...">
+      <option name="closed" value="true" />
+      <created>1734317810536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734317810536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
