@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f230b23-8e35-4c93-99d7-97976ea49f20" name="Changes" comment="">
+    <list default="true" id="0f230b23-8e35-4c93-99d7-97976ea49f20" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" afterDir="false" />
     </list>
@@ -31,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ws-l/scfe_2024.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/dmlcksghd/financialEngineering.git&quot;,
     &quot;accountId&quot;: &quot;3756610f-0bef-4006-9048-01f20ba7b926&quot;
   }
 }</component>
@@ -52,6 +52,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,11 +73,25 @@
       <option name="presentableId" value="Default" />
       <updated>1734309871770</updated>
       <workItem from="1734309873182" duration="861000" />
-      <workItem from="1734310761773" duration="1522000" />
+      <workItem from="1734310761773" duration="5736000" />
+      <workItem from="1734317007372" duration="699000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <option name="closed" value="true" />
+      <created>1734312768869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734312768869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
