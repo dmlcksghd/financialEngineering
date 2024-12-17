@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f230b23-8e35-4c93-99d7-97976ea49f20" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1회차/1일차/SHFE_202412_1_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +28,12 @@
     &quot;assignee&quot;: &quot;dmlcksghd&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dmlcksghd/financialEngineering.git&quot;,
-    &quot;accountId&quot;: &quot;3756610f-0bef-4006-9048-01f20ba7b926&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ws-l/scfe_2024.git",
+    "accountId": "3756610f-0bef-4006-9048-01f20ba7b926"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -74,7 +73,8 @@
       <updated>1734309871770</updated>
       <workItem from="1734309873182" duration="861000" />
       <workItem from="1734310761773" duration="5736000" />
-      <workItem from="1734317007372" duration="11971000" />
+      <workItem from="1734317007372" duration="12308000" />
+      <workItem from="1734393893761" duration="357000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734334120703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="...">
+      <option name="closed" value="true" />
+      <created>1734338381519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734338381519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
